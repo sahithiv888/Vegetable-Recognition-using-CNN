@@ -8,3 +8,6 @@
 - An optimized CNN architecture for efficient vegetable recognition.
 - Training and validation setup with detailed performance metrics.
 - Testing framework to evaluate the model's real-world performance.
+
+##Dataset 
+https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
