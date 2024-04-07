@@ -9,5 +9,13 @@
 - Training and validation setup with detailed performance metrics.
 - Testing framework to evaluate the model's real-world performance.
 
-##Dataset 
+## Dataset
+
+The dataset used in this project consists of various images of vegetables, categorized into multiple classes. Each class represents a type of vegetable, such as carrots, tomatoes, and broccoli, among others. The dataset is split into three subsets: training, validation, and testing. This division helps in training the model effectively, validating its performance during the training process, and finally testing its ability to classify new, unseen images accurately.
+
+### Dataset Structure
+- Training Set: Contains a significant portion of the images for training the CNN model.
+- Validation Set: Used to tune the model's hyperparameters and prevent overfitting.
+- Testing Set: Evaluates the model's performance and generalization capability on unseen data.
+
 https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
